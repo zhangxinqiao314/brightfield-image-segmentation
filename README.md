@@ -4,7 +4,7 @@ This is an imaging processing pipeline for segmenting warped brightfield images 
 To install, use the command 
 
 ```
-wget https://github.com/zhangxinqiao314/brightfield-image-segmentation.git
+git pull https://github.com/zhangxinqiao314/brightfield-image-segmentation.git
 ```
 
 Drag your input folder into the repository. The folder should have the following folder format, with brighfield images named by their temperature:
